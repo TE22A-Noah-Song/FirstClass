@@ -1,4 +1,6 @@
-package PACKAGE_NAME;
-
 public class Car {
+    //Attributes
+    String brand;
+    int speed;
+
 }
